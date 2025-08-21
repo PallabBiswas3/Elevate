@@ -1,0 +1,9 @@
+# Requirements for Birthday Surprise Streamlit App
+# Install with: pip install -r requirements.txt
+
+streamlit>=1.28.0
+plotly>=5.17.0
+streamlit-drawable-canvas>=0.9.0
+pandas>=2.0.0
+Pillow>=10.0.0
+datetime
