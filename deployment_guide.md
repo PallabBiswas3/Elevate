@@ -17,7 +17,7 @@ The app will open at `http://localhost:8501`
 
 To make it accessible from anywhere:
 ```bash
-streamlit run birthday_surprise_app.py --server.port 8501 --server.address 0.0.0.0
+streamlit run birthday_surprise_app.py --server.port 8501 --server.address 127.0.0.1
 ```
 
 ## 🌐 **Deploy Online (Free Options)**
