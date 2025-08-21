@@ -1,4 +1,4 @@
-# 💚 **Birthday Surprise Website for Your Girlfriend**
+# **Birthday Surprise Website**
 
 A personalized, romantic Streamlit website celebrating your long-distance love story!
 
